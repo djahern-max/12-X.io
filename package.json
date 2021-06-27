@@ -1,0 +1,25 @@
+{
+  "name": "12-x.io",
+  "version": "1.0.0",
+  "description": "Website for 12-X.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/djahern-max/12-X.io.git"
+  },
+  "keywords": [
+    "Investing"
+  ],
+  "author": "Dane Ahern",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/djahern-max/12-X.io/issues"
+  },
+  "homepage": "https://github.com/djahern-max/12-X.io#readme",
+  "dependencies": {
+    "node-sass": "^6.0.1"
+  }
+}
